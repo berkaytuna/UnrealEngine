@@ -155,7 +155,7 @@ UInventoryWindow* UInventoryComponent::ToggleInventory(UCanvasPanel* Canvas, FVe
 				InputMode.SetWidgetToFocus(Button->TakeWidget());
 				Button->SetKeyboardFocus();
 			}
-			PlayerController->SetInputMode(InputMode);
+			PlayerController->SetInputMode(InputMode);;
 		}
 
 		/*// Set Input Mode Game And UI
