@@ -1,0 +1,36 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "PassiveRagdoll",
+    "Description": "An Actor Component for a Passive Ragdoll System",
+    "Category": "Other",
+    "CreatedBy": "Berkay Tuna",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1d67b511dc0049d792311006379e90d5",
+    "SupportURL": "",
+    "EngineVersion": "4.24.0",
+    "CanContainContent": false,
+    "Installed": true,
+    "Modules": [
+        {
+            "Name": "PassiveRagdoll",
+            "Type": "Runtime",
+            "LoadingPhase": "PreDefault",
+            "WhitelistPlatforms": [
+                "Win64",
+                "Win32"
+            ]
+        },
+        {
+            "Name": "PassiveRagdollEditor",
+            "Type": "Editor",
+            "LoadingPhase": "PreDefault",
+            "WhitelistPlatforms": [
+                "Win64",
+                "Win32"
+            ]
+        }
+    ]
+}
