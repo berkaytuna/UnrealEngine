@@ -1,0 +1,27 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "RidingSystem",
+    "Description": "An Actor Component for a Riding System",
+    "Category": "Other",
+    "CreatedBy": "Berkay Tuna",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ea9cd0581e6949d9ab103f15f405bc59",
+    "SupportURL": "",
+    "EngineVersion": "4.24.0",
+    "CanContainContent": false,
+    "Installed": true,
+    "Modules": [
+        {
+            "Name": "RidingSystem",
+            "Type": "Runtime",
+            "LoadingPhase": "PreDefault",
+            "WhitelistPlatforms": [
+                "Win64",
+                "Win32"
+            ]
+        }
+    ]
+}
